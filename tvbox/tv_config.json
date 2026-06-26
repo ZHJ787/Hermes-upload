@@ -1,0 +1,28 @@
+{
+    "sites": [
+        {
+            "key": "update_test",
+            "name": "✅更新测试(看到我说明配置已更新)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://example.com",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "jable",
+            "name": "🔞┃Jable┃🔞",
+            "api": "./js/jable.js",
+            "timeout": 30,
+            "ext": {
+                "box": "TVBox"
+            },
+            "playerType": 0,
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
